@@ -9,7 +9,7 @@ If you liked what you saw and want to have a chat with me about the portfolio, w
 # **Content**
 
 * ## Machine Learning
-  * [Final Year Project](US Airbnb Price Prediction.ipynb): US Airbnb price analysis and prediction using multiple linear regression
+  * [Final Year Project](https://github.com/muhammadafif133/portfolio/blob/866dacbd24a79fdbdeeb197f49bef8d11f7a9f75/US%20Airbnb%20Price%20Prediction.ipynb): US Airbnb price analysis and prediction using multiple linear regression
   * [Supervised Learning: Mushroom classification](mushroom.ipynb): K-Nearest Neighbor and Logistic Regression are being compared to classify poisonous and healthy mushroom
   
 * ## Website
