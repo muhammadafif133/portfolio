@@ -10,7 +10,7 @@ If you liked what you saw and want to have a chat with me about the portfolio, w
 
 * ## Machine Learning
   * [Final Year Project](): US Airbnb price analysis and prediction using multiple linear regression
-  * [Supervised Learning: Mushroom classification](): K-Nearest Neighbor and Logistic Regression are being compared to classify poisonous and healthy mushroom
+  * [Supervised Learning: Mushroom classification](mushroom.ipynb): K-Nearest Neighbor and Logistic Regression are being compared to classify poisonous and healthy mushroom
   
 * ## Website
   * [Backend](): Backend environment for developing RESTful Node JS API. 
