@@ -17,5 +17,5 @@ If you liked what you saw and want to have a chat with me about the portfolio, w
   * [Frontend](): Frontend environment for developing React.js browser application.
 
 * ## Mobile application
-  * [Fitness and Workout](): This fitness mobile app is developed with JAVA language to keep track user's lifestyle. This app utilizes GPS, Camera and proximity sensor to calculate users' step and keep track their workout progress.
+  * [Fitness and Workout](): This fitness mobile app is developed with JAVA language to keep track user's lifestyle. This app utilizes GPS, Camera and proximity sensor to calculate users' step and keep track their workout progress..
 
